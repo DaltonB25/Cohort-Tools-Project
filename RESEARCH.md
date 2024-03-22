@@ -47,3 +47,5 @@ Should you have any questions or need further clarification on any of the discus
 
 
 Finish with Day 5
+
+Completed Mini Project 
