@@ -149,7 +149,7 @@ router.post("/students", (req, res, next) => {
     });
 });
 
-// Get all students for a given cohort
+// Get all students for a given cohort and chnages for the commit
 router.get("/students/cohort/:cohortId", (req, res, next) => {
   Student.find({ cohort: req.params.cohortId })
     .populate('cohort')
