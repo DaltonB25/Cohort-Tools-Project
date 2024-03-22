@@ -43,3 +43,7 @@ To practice these concepts, we explored setting up both built-in and custom erro
 **Conclusion**: Mastery of error handling in ExpressJS is essential for building robust server-side applications capable of dealing with unexpected issues without compromising user experience or service availability. By utilizing Express's error handling features and creating custom middleware when necessary, you can ensure your application remains stable and responsive under various conditions.
 
 Should you have any questions or need further clarification on any of the discussed concepts, please don't hesitate to reach out for assistance. I'm here to help you through your learning journey!
+
+
+
+Finish with Day 5
